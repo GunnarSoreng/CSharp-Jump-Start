@@ -1,0 +1,6 @@
+c:\users\gunnar\documents\visual studio 2015\Projects\FileSystemDemo\FileSystemDemo\bin\Debug\FileSystemDemo.exe.config
+c:\users\gunnar\documents\visual studio 2015\Projects\FileSystemDemo\FileSystemDemo\bin\Debug\FileSystemDemo.exe
+c:\users\gunnar\documents\visual studio 2015\Projects\FileSystemDemo\FileSystemDemo\bin\Debug\FileSystemDemo.pdb
+c:\users\gunnar\documents\visual studio 2015\Projects\FileSystemDemo\FileSystemDemo\obj\Debug\FileSystemDemo.csprojResolveAssemblyReference.cache
+c:\users\gunnar\documents\visual studio 2015\Projects\FileSystemDemo\FileSystemDemo\obj\Debug\FileSystemDemo.exe
+c:\users\gunnar\documents\visual studio 2015\Projects\FileSystemDemo\FileSystemDemo\obj\Debug\FileSystemDemo.pdb

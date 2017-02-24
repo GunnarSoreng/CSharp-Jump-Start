@@ -1,0 +1,2 @@
+c:\users\gunnar\documents\visual studio 2015\Projects\DisposeDemo\DisposeDemo\bin\Debug\DisposeDemo.exe.config
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\DisposeDemo\DisposeDemo\bin\Debug\DisposeDemo.exe.config

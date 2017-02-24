@@ -1,0 +1,1 @@
+c:\users\gunnar\documents\visual studio 2015\Projects\SwitchDemo\SwitchDemo\bin\Debug\SwitchDemo.exe.config

@@ -1,0 +1,24 @@
+c:\users\gunnar\documents\visual studio 2015\Projects\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.exe.config
+c:\users\gunnar\documents\visual studio 2015\Projects\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.csprojResolveAssemblyReference.cache
+c:\users\gunnar\documents\visual studio 2015\Projects\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.exe
+c:\users\gunnar\documents\visual studio 2015\Projects\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.pdb
+c:\users\gunnar\documents\visual studio 2015\Projects\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.exe
+c:\users\gunnar\documents\visual studio 2015\Projects\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.pdb
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.exe.config
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.exe
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.pdb
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.exe
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.pdb
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.csprojResolveAssemblyReference.cache
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\TestingAndValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.exe.config
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\TestingAndValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.exe
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\TestingAndValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.pdb
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\TestingAndValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.exe
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\TestingAndValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.pdb
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\TestingAndValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.csprojResolveAssemblyReference.cache
+C:\Dev\CSharp-Jump-Start\TestingAndValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.exe.config
+C:\Dev\CSharp-Jump-Start\TestingAndValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.exe
+C:\Dev\CSharp-Jump-Start\TestingAndValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.pdb
+C:\Dev\CSharp-Jump-Start\TestingAndValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.exe
+C:\Dev\CSharp-Jump-Start\TestingAndValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.pdb
+C:\Dev\CSharp-Jump-Start\TestingAndValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\gunnar\documents\visual studio 2015\Projects\Iteration demo\Iteration demo\bin\Debug\Iteration demo.exe.config
+c:\users\gunnar\documents\visual studio 2015\Projects\Iteration demo\Iteration demo\bin\Debug\Iteration demo.exe
+c:\users\gunnar\documents\visual studio 2015\Projects\Iteration demo\Iteration demo\bin\Debug\Iteration demo.pdb
+c:\users\gunnar\documents\visual studio 2015\Projects\Iteration demo\Iteration demo\obj\Debug\Iteration demo.csprojResolveAssemblyReference.cache
+c:\users\gunnar\documents\visual studio 2015\Projects\Iteration demo\Iteration demo\obj\Debug\Iteration demo.exe
+c:\users\gunnar\documents\visual studio 2015\Projects\Iteration demo\Iteration demo\obj\Debug\Iteration demo.pdb

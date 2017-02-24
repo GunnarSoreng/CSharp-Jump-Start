@@ -1,0 +1,24 @@
+c:\users\gunnar\documents\visual studio 2015\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.exe.config
+c:\users\gunnar\documents\visual studio 2015\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\Database1.mdf
+c:\users\gunnar\documents\visual studio 2015\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\Database1_log.ldf
+c:\users\gunnar\documents\visual studio 2015\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.exe
+c:\users\gunnar\documents\visual studio 2015\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.pdb
+c:\users\gunnar\documents\visual studio 2015\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\EntityFramework.dll
+c:\users\gunnar\documents\visual studio 2015\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\gunnar\documents\visual studio 2015\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\EntityFramework.xml
+c:\users\gunnar\documents\visual studio 2015\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\gunnar\documents\visual studio 2015\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.csprojResolveAssemblyReference.cache
+c:\users\gunnar\documents\visual studio 2015\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.exe
+c:\users\gunnar\documents\visual studio 2015\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.pdb
+C:\Dev\CSharp-Jump-Start\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.exe.config
+C:\Dev\CSharp-Jump-Start\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.exe
+C:\Dev\CSharp-Jump-Start\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.pdb
+C:\Dev\CSharp-Jump-Start\DatabaseDemo\DatabaseDemo\bin\Debug\Database1.mdf
+C:\Dev\CSharp-Jump-Start\DatabaseDemo\DatabaseDemo\bin\Debug\Database1_log.ldf
+C:\Dev\CSharp-Jump-Start\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.exe
+C:\Dev\CSharp-Jump-Start\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.pdb
+C:\Dev\CSharp-Jump-Start\DatabaseDemo\DatabaseDemo\bin\Debug\EntityFramework.dll
+C:\Dev\CSharp-Jump-Start\DatabaseDemo\DatabaseDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\CSharp-Jump-Start\DatabaseDemo\DatabaseDemo\bin\Debug\EntityFramework.xml
+C:\Dev\CSharp-Jump-Start\DatabaseDemo\DatabaseDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\CSharp-Jump-Start\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\gunnar\documents\visual studio 2015\Projects\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+c:\users\gunnar\documents\visual studio 2015\Projects\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+c:\users\gunnar\documents\visual studio 2015\Projects\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+c:\users\gunnar\documents\visual studio 2015\Projects\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csprojResolveAssemblyReference.cache
+c:\users\gunnar\documents\visual studio 2015\Projects\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+c:\users\gunnar\documents\visual studio 2015\Projects\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.pdb
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+C:\Users\gunnar\Documents\Visual Studio 2015\Projects\C# Jump Start\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.pdb

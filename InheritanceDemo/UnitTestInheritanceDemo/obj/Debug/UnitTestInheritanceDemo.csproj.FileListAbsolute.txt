@@ -1,0 +1,9 @@
+c:\Users\gunnar\Documents\Visual Studio 2015\Projects\InheritanceDemo\UnitTestInheritanceDemo\bin\Debug\UnitTestInheritanceDemo.dll
+c:\Users\gunnar\Documents\Visual Studio 2015\Projects\InheritanceDemo\UnitTestInheritanceDemo\bin\Debug\UnitTestInheritanceDemo.pdb
+c:\Users\gunnar\Documents\Visual Studio 2015\Projects\InheritanceDemo\UnitTestInheritanceDemo\bin\Debug\InheritanceDemo.exe
+c:\Users\gunnar\Documents\Visual Studio 2015\Projects\InheritanceDemo\UnitTestInheritanceDemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\gunnar\Documents\Visual Studio 2015\Projects\InheritanceDemo\UnitTestInheritanceDemo\bin\Debug\InheritanceDemo.pdb
+c:\Users\gunnar\Documents\Visual Studio 2015\Projects\InheritanceDemo\UnitTestInheritanceDemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\gunnar\Documents\Visual Studio 2015\Projects\InheritanceDemo\UnitTestInheritanceDemo\obj\Debug\UnitTestInheritanceDemo.csprojResolveAssemblyReference.cache
+c:\Users\gunnar\Documents\Visual Studio 2015\Projects\InheritanceDemo\UnitTestInheritanceDemo\obj\Debug\UnitTestInheritanceDemo.dll
+c:\Users\gunnar\Documents\Visual Studio 2015\Projects\InheritanceDemo\UnitTestInheritanceDemo\obj\Debug\UnitTestInheritanceDemo.pdb
