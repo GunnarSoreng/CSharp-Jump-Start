@@ -4,3 +4,9 @@ c:\users\gunnar\documents\visual studio 2015\Projects\StringDemo\StringDemo\bin\
 c:\users\gunnar\documents\visual studio 2015\Projects\StringDemo\StringDemo\obj\Debug\StringDemo.csprojResolveAssemblyReference.cache
 c:\users\gunnar\documents\visual studio 2015\Projects\StringDemo\StringDemo\obj\Debug\StringDemo.exe
 c:\users\gunnar\documents\visual studio 2015\Projects\StringDemo\StringDemo\obj\Debug\StringDemo.pdb
+C:\Dev\CSharp-Jump-Start\StringDemo\StringDemo\bin\Debug\StringDemo.exe.config
+C:\Dev\CSharp-Jump-Start\StringDemo\StringDemo\obj\Debug\StringDemo.exe
+C:\Dev\CSharp-Jump-Start\StringDemo\StringDemo\obj\Debug\StringDemo.pdb
+C:\Dev\CSharp-Jump-Start\StringDemo\StringDemo\bin\Debug\StringDemo.exe
+C:\Dev\CSharp-Jump-Start\StringDemo\StringDemo\bin\Debug\StringDemo.pdb
+C:\Dev\CSharp-Jump-Start\StringDemo\StringDemo\obj\Debug\StringDemo.csprojResolveAssemblyReference.cache
